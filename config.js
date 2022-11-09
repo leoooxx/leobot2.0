@@ -31,7 +31,8 @@ global.linkz = "https://www.youtube.com/channel/UCtrQz2uj9UvoneejlvUkVKw" //your
 global.websitex = "https://www.youtube.com/channel/UCtrQz2uj9UvoneejlvUkVKw" //your website to be displayed
 global.botscript = 'https://github.com/leoooxx/CheemsBot-MD5' //script link
 global.themeemoji = "🦦" //ur theme emoji
-global.packname = "🦄 𝟚.𝟘" //ur sticker watermark packname
+global.packname = "🦄 LEO-BOT
+ 𝟚.𝟘" //ur sticker watermark packname
 global.author = "𝕷𝕰𝕺🦄" //ur sticker watermark author
 global.wm = "𝕃𝔼𝕆-𝔹𝕆𝕋 Inc." //ur watermark
 
